@@ -1,21 +1,28 @@
 # Rossmann Sales Prediction
 
 ## Overview
-This project predicts store sales using machine learning models such as XGBoost and Ridge Regression.
+This project predicts daily store sales using machine learning models based on historical sales data.
 
-## Technologies Used
+## Objective
+To build a regression model that accurately forecasts future sales and evaluates performance using standard metrics.
+
+## Tech Stack
 - Python
-- Pandas
+- Pandas & NumPy
 - Scikit-learn
 - XGBoost
 - LightGBM
 - CatBoost
 
-## Evaluation Metrics
-- MAE
-- RMSE
+## Model Evaluation
+- MAE (Mean Absolute Error)
+- RMSE (Root Mean Squared Error)
 
 ## Key Features
-- Feature engineering
-- Ensemble learning
-- Model comparison
+- Data preprocessing and feature engineering
+- Comparison of multiple regression models
+- Ensemble learning approach
+
+---
+
+📌 This project demonstrates practical application of machine learning in real-world sales forecasting.
